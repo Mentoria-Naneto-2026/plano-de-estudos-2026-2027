@@ -10,6 +10,19 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 
 ---
 
+## Dicas Importantes
+* **NÃO** utilize IA sem nenhum conhecimento!
+* Assista o curso, depois ponha em prática com exercicios
+* Para cada curso que você terminar, abra um repositório no git com a prática daquele conhecimento neste repositório
+* Coloque os seus códigos no **Git**
+* Tenha um caderno e acostume-se a anotar o que você está fazendo e o que está planejando fazer
+* Até o seus produtos ficaram com a aparência bonita, ainda demora muito, é necessário **MUITO ESTUDO**
+* Você só fica bom se **PRATICAR**
+* Aprenda sobre metodologias ágeis (Papéis, Cerimônias) e aprenda no mínimo com o Scrum funciona
+* Mantenha a consistência, estude um pouco por dia, um pouco por semana e trace meta por mês (quero concluir X cursos por mês, quero concluir X projetos por mês, quero adquiri as habilidades X esse mês)
+
+---
+
 ## Informações do Mentorado
 <table>
      <tbody>
@@ -66,19 +79,6 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 
 ### Gerenciamento de Projetos (Kanban Flow)
 - [ ] <img alt="Trello" title="Trello" src="https://cdn-icons-png.flaticon.com/512/174/174874.png" height="16">&nbsp;[Trello](https://trello.com/)
-
-
----
-
-## Dicas Importantes
-* **NÃO** utilize IA sem nenhum conhecimento!
-* Assista o curso, depois ponha em prática com exercicios
-* Para cada curso que você terminar, abra um repositório no git com a prática daquele conhecimento neste repositório
-* Coloque os seus códigos no **Git**
-* Tenha um caderno e acostume-se a anotar o que você está fazendo e o que está planejando fazer
-* Até o seus produtos ficaram com a aparência bonita, ainda demora muito, é necessário **MUITO ESTUDO**
-* Você só fica bom se **PRATICAR**
-* Aprenda sobre metodologias ágeis (Papéis, Cerimônias) e aprenda no mínimo com o Scrum funciona.
 
 ---
 
