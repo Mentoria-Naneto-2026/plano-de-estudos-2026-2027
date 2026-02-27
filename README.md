@@ -9,45 +9,44 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 
 ---
 
-## Perfil do Mentorado
-- [ ] Naneto Almeida Da Silva
+## Naneto Almeida Da Silva
+- [ ] Idade:
+- [ ] Cidade onde Mora:
 - [ ] [Linkedin](https://www.linkedin.com/in/naneto-almeida-da-silva-209298291/)
 - [ ] [nttalsilva@gmail.com](nttalsilva@gmail.com)
 - [ ] [Whatsapp](+556198285-0996)
-- [ ] Cidade onde Mora:
-- [ ] Formação: 12/2025
-- [ ] Curso: ADS - Análise e Desenvolvimento de Sistemas
-- [ ] Breve Resumo Diagnóstico:
-- [ ] Idade:
+- [ ] Formação: **12/2025**
+- [ ] Curso: **ADS - Análise e Desenvolvimento de Sistemas**
+
 
 ---
 
 ## Ferramentas
 ### IDE de Desenvolvimento
-- [ ] [Visual Studio Code](https://code.visualstudio.com/download)
+- [ ] <img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="16">&nbsp;[Visual Studio Code](https://code.visualstudio.com/download)
 
 
 ### Prototipação & Design
-- [ ] [Figma](https://www.figma.com)
-- [ ] [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-- [ ] [Tailwind CSS](https://tailwindcss.com/)
-- [ ] [Typescale](https://typescale.com/)
-- [ ] [Color Pallete (Gerador de Paleta de Cores)](https://coolors.co/)
-- [ ] [Adobe Color](https://color.adobe.com/pt/create/color-wheel)
-- [ ] [Google Fonts](https://fonts.google.com/)
+- [ ] <img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="16">&nbsp;[Figma](https://www.figma.com)
+- [ ] <img alt="Bootstrap 5" title="Bootstrap 5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/3840px-Bootstrap_logo.svg.png" height="16">&nbsp;[Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [ ] <img alt="Tailwind CSS" title="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="12">&nbsp;[Tailwind CSS](https://tailwindcss.com/)
+- [ ] <img alt="Typescale" title="Typescale" src="https://typescale.com/wp-content/themes/typescale/favicon/favicon-32x32.png?ver=1.2.49" height="16">&nbsp;[Typescale](https://typescale.com/)
+- [ ] <img alt="Color Pallete" title="Color Pallete" src="https://coolors.co/assets/img/favicon.png" height="16">&nbsp;[Color Pallete (Gerador de Paleta de Cores)](https://coolors.co/)
+- [ ] <img alt="Adobe Color" title="Adobe Color" src="https://color.adobe.com//apple-touch-icon.png" height="16">&nbsp;[Adobe Color](https://color.adobe.com/pt/create/color-wheel)
+- [ ] <img alt="Google Fonts" title="Google Fonts" src="https://cdn.iconscout.com/icon/free/png-256/free-google-fonts-icon-svg-download-png-2931439.png" height="16">&nbsp;[Google Fonts](https://fonts.google.com/)
 
 ### Virtualização de Ambientes
-- [ ] [Docker](https://www.docker.com/)
+- [ ] <img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="16">&nbsp;[Docker](https://www.docker.com/)
 
 ### Framework
-- [ ] [Material Design 3](https://m3.material.io/)
+- [ ] <img alt="Material Design 3" title="Material Design 3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YbOpa-wsU2ll0wzwwzNuiOS4kFsIrOTumQ&s" height="16">&nbsp;[Material Design 3](https://m3.material.io/)
 
 ### Desenvolvimento
 - [ ] [Editor de Markdown](https://typora.io/)
-- [ ] [Postman](https://www.postman.com/)
+- [ ] <img alt="Postman" title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="16">&nbsp;[Postman](https://www.postman.com/)
 
 ### Gerenciamento de Projetos (Kanban Flow)
-- [ ] [Trello](https://trello.com/)
+- [ ] <img alt="Trello" title="Trello" src="https://cdn-icons-png.flaticon.com/512/174/174874.png" height="16">&nbsp;[Trello](https://trello.com/)
 
 
 ---
@@ -106,6 +105,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 - [ ] [Back End Node.js](https://www.origamid.com/curso/back-end-node-js)
 - [ ] [Next.js](https://www.origamid.com/curso/nextjs)
 - [ ] [Redux com React](https://www.origamid.com/curso/redux-com-react)
+- [ ] [Banco de Dados SQLite](https://www.origamid.com/curso/banco-de-dados-sqlite)
 
 ### Trilha CodeBoost
 - [ ] Siga o fluxo sugerido pela plataforma (na ordem sugerida)
