@@ -144,7 +144,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 ## Livros
 
 <table>
-     <tbody>
+     <tbody style="width:1000px;">
           <tr>
                <td rowspan="5"><img alt="React Fluente" title="React Fluente" src="https://m.media-amazon.com/images/I/710Peri1iLL._SL1500_.jpg" height="250"></td>
                <td>React Fluente: Crie aplicações web rápidas, eficazes e intuitivas</td>
@@ -153,7 +153,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
                <td>Autor: Tejas Kumar</td>
           </tr>
           <tr>
-               <td>Preço: **R$91,96**</td>
+               <td>Preço: <b>R$91,96</b></td>
            </tr>
            <tr>
                 <td><a href="https://www.amazon.com.br/dp/B0D4FD47PW" target="_blank">Link da Loja</a></td>
@@ -168,13 +168,13 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
      <tbody>
           <tr>
                <td rowspan="5"><img alt="Aprendendo Git" title="Aprendendo Git" src="https://m.media-amazon.com/images/I/81rjW8UqBKL._SL1500_.jpg" height="250"></td>
-               <td>React Fluente: Crie aplicações web rápidas, eficazes e intuitivas</td>
+               <td>Aprendendo Git: Um guia prático e visual para os fundamentos do Git</td>
           </tr>
           <tr>
                <td>Autor: Tejas Kumar</td>
           </tr>
           <tr>
-               <td>Preço: **R$91,96**</td>
+               <td>Preço: <b>R$91,96</b></td>
            </tr>
            <tr>
                 <td><a href="https://www.amazon.com.br/dp/B0D4FD47PW" target="_blank">Link da Loja</a></td>
