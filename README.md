@@ -5,19 +5,38 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/sergiobsilva)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge)](https://wa.link/mnbsyo)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge&link=mailto:sergio.b.silva@iesb.edu.br)](mailto:sergio.b.silva@iesb.edu.br)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiobslva/)
 <br>
 
 ---
 
-## Naneto Almeida Da Silva
-- [ ] Idade:
-- [ ] Cidade onde Mora:
-- [ ] [Linkedin](https://www.linkedin.com/in/naneto-almeida-da-silva-209298291/)
-- [ ] [nttalsilva@gmail.com](nttalsilva@gmail.com)
-- [ ] [Whatsapp](+556198285-0996)
-- [ ] Formação: **12/2025**
-- [ ] Curso: **ADS - Análise e Desenvolvimento de Sistemas**
-
+## Informações do Mentorado
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="7"><img alt="Naneto Almeida da Silva" title="Naneto Almeida da Silva" src="https://media.licdn.com/dms/image/v2/D4D35AQHqkriTGxHczg/profile-framedphoto-shrink_800_800/B4DZxiwDhkGkAg-/0/1771183290763?e=1772773200&v=beta&t=qeU-iuI0ZNf4AC6aPNv_RrvZnNgDroSohFvwkqiiBuY" height="250"></td>
+               <td><b>Naneto Almeida da Silva</b></td>
+          </tr>
+          <tr>
+               <td>Ceilândia</td>
+          </tr>
+          <tr>
+               <td><b>50 anos</b></td>
+           </tr>
+           <tr>
+                <td><a href="https://www.linkedin.com/in/naneto-almeida-da-silva-209298291/" target="_blank">Linkedin</a></td>
+           </tr>
+           <tr>
+                <td>Whatsapp: 6198285-0996</td>
+           </tr>
+         <tr>
+                <td>Formação: <b>12/2025</b></td>
+           </tr>
+         <tr>
+                <td>Curso: <b>ADS - Análise e Desenvolvimento de Sistemas</b></td>
+           </tr>
+     </tbody>
+</table>
 
 ---
 
@@ -114,12 +133,12 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 ### Origamid
 - [ ] [https://www.origamid.com/curso/](https://www.origamid.com/curso/)
 - [ ] Usuário: **sergiobslva@gmail.com**
-- [ ] Senha: **Vjloxbio20@9**
+- [ ] Senha: *Solicitar Senha*
 
 ### CodeBoost
 - [ ] [CodeBoost Hotmart](https://hotmart.com/pt-br/club/codeboost-1/products/1441895)
 - [ ] Usuário: **sergiobslva@gmail.com**
-- [ ] Senha: **Vjloxbio20@9**
+- [ ] Senha: *Solicitar Senha*
 
 ## Canais do YouTube / Blogs / Links Importantes
 ### Filipe Deschamps
@@ -144,7 +163,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 ## Livros
 
 <table>
-     <tbody style="width:1000px;">
+     <tbody>
           <tr>
                <td rowspan="5"><img alt="React Fluente" title="React Fluente" src="https://m.media-amazon.com/images/I/710Peri1iLL._SL1500_.jpg" height="250"></td>
                <td>React Fluente: Crie aplicações web rápidas, eficazes e intuitivas</td>
@@ -185,19 +204,28 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
      </tbody>
 </table>
 
-<img alt="Aprendendo Git" title="Aprendendo Git" src="https://m.media-amazon.com/images/I/81rjW8UqBKL._SL1500_.jpg" height="250"><br>
-- [x] Aprendendo Git: Um guia prático e visual para os fundamentos do Git
-- [x] Autor: Anna Skoulikari
-- [x] Preço: **R$75,04**
-- [x] [Link da Loja](https://www.amazon.com.br/dp/B0CRK7Z8G6)
-
 ---
 
-<img alt="Aprendendo TypeScript" title="Aprendendo TypeScript" src="https://m.media-amazon.com/images/I/81geuTEJMPL._SL1500_.jpg" height="250"><br>
-- [x] Aprendendo TypeScript: Melhore suas habilidades de desenvolvimento web usando JavaScript Type-Safe
-- [x] Autor: Josh Goldberg
-- [x] Preço: **R$70,96**
-- [x] [Link da Loja]([https://www.amazon.com.br/dp/B0CRK7Z8G6](https://www.amazon.com.br/dp/B0BFJDYRLH))
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="5"><img alt="Aprendendo TypeScript" title="Aprendendo TypeScript" src="https://m.media-amazon.com/images/I/81geuTEJMPL._SL1500_.jpg" height="250"></td>
+               <td>Aprendendo TypeScript: Melhore suas habilidades de desenvolvimento web usando JavaScript Type-Safe</td>
+          </tr>
+          <tr>
+               <td>Autor: Josh Goldberg</td>
+          </tr>
+          <tr>
+               <td>Preço: <b>R$70,96</b></td>
+           </tr>
+           <tr>
+                <td><a href="https://www.amazon.com.br/dp/B0CRK7Z8G6](https://www.amazon.com.br/dp/B0BFJDYRLH" target="_blank">Link da Loja</a></td>
+           </tr>
+           <tr>
+                <td>Editora: Alta Books / O'reilly</td>
+           </tr>
+     </tbody>
+</table>
 
 ---
 
