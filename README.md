@@ -9,6 +9,19 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 
 ---
 
+## Perfil do Mentorado
+- [ ] Naneto Almeida Da Silva
+- [ ] [Linkedin](https://www.linkedin.com/in/naneto-almeida-da-silva-209298291/)
+- [ ] [nttalsilva@gmail.com](nttalsilva@gmail.com)
+- [ ] [Whatsapp](+556198285-0996)
+- [ ] Cidade onde Mora:
+- [ ] Formação: 12/2025
+- [ ] Curso: ADS - Análise e Desenvolvimento de Sistemas
+- [ ] Breve Resumo Diagnóstico:
+- [ ] Idade:
+
+---
+
 ## Ferramentas
 ### IDE de Desenvolvimento
 - [ ] [Visual Studio Code](https://code.visualstudio.com/download)
@@ -129,13 +142,48 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 * Assunto: Curso de Métodos Ágeis
 
 ## Livros
-<img alt="React Fluente" title="React Fluente" src="https://m.media-amazon.com/images/I/710Peri1iLL._SL1500_.jpg" height="250"><br>
-- [x] React Fluente: Crie aplicações web rápidas, eficazes e intuitivas
-- [x] Autor: Tejas Kumar
-- [x] Preço: **R$91,96**
-- [x] [Link da Loja](https://www.amazon.com.br/dp/B0D4FD47PW)
 
----
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="5"><img alt="React Fluente" title="React Fluente" src="https://m.media-amazon.com/images/I/710Peri1iLL._SL1500_.jpg" height="250"></td>
+               <td>React Fluente: Crie aplicações web rápidas, eficazes e intuitivas</td>
+          </tr>
+          <tr>
+               <td>Autor: Tejas Kumar</td>
+          </tr>
+          <tr>
+               <td>Preço: **R$91,96**</td>
+           </tr>
+           <tr>
+                <td><a href="https://www.amazon.com.br/dp/B0D4FD47PW" target="_blank">Link da Loja</a></td>
+           </tr>
+           <tr>
+                <td>Editora: Alta Books / O'reilly</td>
+           </tr>
+     </tbody>
+</table>
+
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="5"><img alt="Aprendendo Git" title="Aprendendo Git" src="https://m.media-amazon.com/images/I/81rjW8UqBKL._SL1500_.jpg" height="250"></td>
+               <td>React Fluente: Crie aplicações web rápidas, eficazes e intuitivas</td>
+          </tr>
+          <tr>
+               <td>Autor: Tejas Kumar</td>
+          </tr>
+          <tr>
+               <td>Preço: **R$91,96**</td>
+           </tr>
+           <tr>
+                <td><a href="https://www.amazon.com.br/dp/B0D4FD47PW" target="_blank">Link da Loja</a></td>
+           </tr>
+           <tr>
+                <td>Editora: Alta Books / O'reilly</td>
+           </tr>
+     </tbody>
+</table>
 
 <img alt="Aprendendo Git" title="Aprendendo Git" src="https://m.media-amazon.com/images/I/81rjW8UqBKL._SL1500_.jpg" height="250"><br>
 - [x] Aprendendo Git: Um guia prático e visual para os fundamentos do Git
