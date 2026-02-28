@@ -27,7 +27,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 <table>
      <tbody>
           <tr>
-               <td rowspan="8"><img alt="Naneto Almeida da Silva" title="Naneto Almeida da Silva" src="https://media.licdn.com/dms/image/v2/D4D35AQHqkriTGxHczg/profile-framedphoto-shrink_800_800/B4DZxiwDhkGkAg-/0/1771183290763?e=1772773200&v=beta&t=qeU-iuI0ZNf4AC6aPNv_RrvZnNgDroSohFvwkqiiBuY" height="250"></td>
+               <td rowspan="8" width="40%"><img alt="Naneto Almeida da Silva" title="Naneto Almeida da Silva" src="https://media.licdn.com/dms/image/v2/D4D35AQHqkriTGxHczg/profile-framedphoto-shrink_800_800/B4DZxiwDhkGkAg-/0/1771183290763?e=1772773200&v=beta&t=qeU-iuI0ZNf4AC6aPNv_RrvZnNgDroSohFvwkqiiBuY" height="100%"></td>
                <td><b>Naneto Almeida da Silva</b></td>
           </tr>
           <tr>
@@ -172,13 +172,43 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 * Software developer especialista em aplicativos e games, com mais de 15 anos de experiência e 5 prêmios de reconhecimento nacional. Foi eleita LinkedIn Top Voice 2023 pelo seu trabalho de criação de conteúdo para a comunidade de tecnologia. Em 2022 esteve na lista dos 50 hackers to follow e foi indicada para o prêmio internacional "Women that build".
 
 ### Lucas Montano
-* [Canal do Youtube](https://www.youtube.com/@LucasMontano)
-* Assunto: Atualizações sobre a carreira de DEV
-* Escrevendo código desde 2002, atualmente trabalho como Lead Engineer no Disney+ e falo sobre o que quero no Youtube. Tu pode se tornar membro para ter acesso a ["aulas" e lives exclusivas](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg/join)
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="3"><img alt="Atualizações sobre a carreira de DEV" title="Atualizações sobre a carreira de DEV" src="https://i.ytimg.com/vi/0myUp11ekTo/maxresdefault.jpg" height="270"></td>
+               <td><b>Atualizações sobre a carreira de DEV</b></td>
+          </tr>
+          <tr>
+               <td><a href="https://www.youtube.com/@LucasMontano" target="_blank">Canal do YouTube</a></td>
+          </tr>
+     </tbody>
+</table>
 
 ### Treinamento de Metodologias Ágeis - Aprenda XP, Scrum, Lean e Kanban
-* [Playlist do YouTube](https://www.youtube.com/watch?v=qYap9iIYmX4&list=PLkM70VNwg9DRnQm7FhZQZTKQaVQocoEbY)
-* Assunto: Curso de Métodos Ágeis
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="3"><img alt="Docker Essencial: Primeiros Passos" title="Docker Essencial: Primeiros Passos" src="https://i.ytimg.com/vi/qYap9iIYmX4/maxresdefault.jpg" height="270"></td>
+               <td><b>Curso de Metodologias Ágeis</b></td>
+          </tr>
+          <tr>
+               <td><a href="https://www.youtube.com/watch?v=qYap9iIYmX4&list=PLkM70VNwg9DRnQm7FhZQZTKQaVQocoEbY" target="_blank">Playlist do YouTube</a></td>
+          </tr>
+     </tbody>
+</table>
+
+### Docker Essencial: Primeiros Passos
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="3"><img alt="Docker Essencial: Primeiros Passos" title="Docker Essencial: Primeiros Passos" src="https://i.ytimg.com/vi/OERbOJZwGAU/hqdefault.jpg" height="500"></td>
+               <td><b>Docker Essencial: Primeiros Passos</b></td>
+          </tr>
+          <tr>
+               <td><a href="https://www.youtube.com/watch?v=OERbOJZwGAU&list=PLViOsriojeLrdw5VByn96gphHFxqH3O_N" target="_blank">Playlist do YouTube</a></td>
+          </tr>
+     </tbody>
+</table>
 
 ## Livros
 
