@@ -85,7 +85,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 ## Fluxo de Trabalho
 * Inicie o curso
 * Quando uma porcentagem considerável dele for concluída, crie um repositório no git para criar o seu projeto
-    * Exemplo: Nome do Repositório - origamid-html-e-css-parainiciantes
+    * Exemplo: Nome do Repositório - origamid-html-e-css-para-iniciantes
     * Nele devem conter a evolução do seu conhecimento no curso
     * Utilize o Git Flow para manter o seu repositório atualizado
          * ``` git status ```,  ``` git add ```, ``` git commit ```, ``` git pull ```, ``` git push origin main ```, ``` git branch ```
