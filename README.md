@@ -226,7 +226,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
      <tbody>
           <tr>
                <td rowspan="5"><img alt="Aprendendo TypeScript" title="Aprendendo TypeScript" src="https://m.media-amazon.com/images/I/81geuTEJMPL._SL1500_.jpg" height="250"></td>
-               <td>Aprendendo TypeScript: Melhore suas habilidades de desenvolvimento web usando JavaScript Type-Safe</td>
+               <td>Aprendendo TypeScript: Melhore suas habilidades de desenvolvimento <br>web usando JavaScript Type-Safe</td>
           </tr>
           <tr>
                <td>Autor: Josh Goldberg</td>
@@ -247,7 +247,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
      <tbody>
           <tr>
                <td rowspan="5"><img alt="Aprenda programação funcional" title="Aprenda programação funcional" src="https://m.media-amazon.com/images/I/71l0TYj1mpL._SL1500_.jpg" height="250"></td>
-               <td>Aprenda programação funcional: como pensar funcionalmente para trabalhar com códigos complexos</td>
+               <td>Aprenda programação funcional: como pensar funcionalmente <br>para trabalhar com códigos complexos</td>
           </tr>
           <tr>
                <td>Autor: Jack Widman (Autor), Renan Amorim (Tradutor)</td>
@@ -268,7 +268,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
      <tbody>
           <tr>
                <td rowspan="5"><img alt="Design Centrado no Usuário" title="Design Centrado no Usuário" src="https://m.media-amazon.com/images/I/917gBEjXhbL._SL1500_.jpg" height="250"></td>
-               <td>Design Centrado no Usuário: Um guia para o desenvolvimento de aplicativos amigáveis</td>
+               <td>Design Centrado no Usuário: Um guia para o desenvolvimento <br>de aplicativos amigáveis</td>
           </tr>
           <tr>
                <td>Autor: Travis Lowdermilk</td>
@@ -332,7 +332,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
      <tbody>
           <tr>
                <td rowspan="5"><img alt="O Teste da Mãe" title="O Teste da Mãe" src="https://m.media-amazon.com/images/I/714IjyfAWlL._SL1500_.jpg" height="250"></td>
-               <td>O Teste da Mãe: Como conversar com clientes e descobrir se sua ideia é boa, mesmo com todos mentindo para você</td></td>
+               <td>O Teste da Mãe: Como conversar com clientes e descobrir se sua <br>ideia é boa, mesmo com todos mentindo para você</td></td>
           </tr>
           <tr>
                <td>Autor: Daniel Salengue (Tradutor), Rob Fitzpatrick (Autor)/td>
@@ -353,7 +353,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
      <tbody>
           <tr>
                <td rowspan="5"><img alt="ENVIESADOS" title="ENVIESADOS" src="https://m.media-amazon.com/images/I/61knSqVrQaL._SL1200_.jpg" height="250"></td>
-               <td>ENVIESADOS: Psicologia e Vieses Cognitivos no Design para criar produtos e serviços que ajudam usuários a tomarem MELHORES DECISÕES</td></td>
+               <td>ENVIESADOS: Psicologia e Vieses Cognitivos no Design para criar <br>produtos e serviços que ajudam usuários a tomarem MELHORES DECISÕES</td></td>
           </tr>
           <tr>
                <td>Autor: Rian Dutra</td>
