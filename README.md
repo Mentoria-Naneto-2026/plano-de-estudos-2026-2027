@@ -27,11 +27,11 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 <table>
      <tbody>
           <tr>
-               <td rowspan="7"><img alt="Naneto Almeida da Silva" title="Naneto Almeida da Silva" src="https://media.licdn.com/dms/image/v2/D4D35AQHqkriTGxHczg/profile-framedphoto-shrink_800_800/B4DZxiwDhkGkAg-/0/1771183290763?e=1772773200&v=beta&t=qeU-iuI0ZNf4AC6aPNv_RrvZnNgDroSohFvwkqiiBuY" height="250"></td>
+               <td rowspan="8"><img alt="Naneto Almeida da Silva" title="Naneto Almeida da Silva" src="https://media.licdn.com/dms/image/v2/D4D35AQHqkriTGxHczg/profile-framedphoto-shrink_800_800/B4DZxiwDhkGkAg-/0/1771183290763?e=1772773200&v=beta&t=qeU-iuI0ZNf4AC6aPNv_RrvZnNgDroSohFvwkqiiBuY" height="250"></td>
                <td><b>Naneto Almeida da Silva</b></td>
           </tr>
           <tr>
-               <td>Ceilândia</td>
+               <td>Ceilândia - DF</td>
           </tr>
           <tr>
                <td><b>50 anos</b></td>
@@ -47,9 +47,26 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
            </tr>
          <tr>
                 <td>Curso: <b>ADS - Análise e Desenvolvimento de Sistemas</b></td>
-           </tr>
+         </tr>
+         <tr>
+                <td><b>Diagnótico:</b> Naneto relata ter concluído o curso de ADS recentemente, porém não conseguiu fixar maioria dos conhecimentos! Ele tem interesse em cerca de 1 ano estar        atuando profissionalmente na área de <b>Desenvolvimento Frontend</b></td>
+         </tr>
      </tbody>
 </table>
+
+---
+
+## Lista de Tecnologias Importantes
+<br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" title="Bootstrap" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="AWS" title="AWS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/aws.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/git.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="jQuery" title="jQuery" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/jquery.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/mysql.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SaSS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/sass.png" height="24">
+&nbsp;&nbsp;<img alt="Angular" title="Angular" src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi.png" height="26">
+&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
+&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">
+&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;<img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="26">&nbsp;&nbsp;<img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" height="26">&nbsp;&nbsp;<img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="26">
+<br><br>
 
 ---
 
@@ -85,7 +102,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 ## Fluxo de Trabalho
 * Inicie o curso
 * Quando uma porcentagem considerável dele for concluída, crie um repositório no git para criar o seu projeto
-    * Exemplo: Nome do Repositório - origamid-html-e-css-para-iniciantes
+    * Exemplo: Nome do Repositório - origamid-html-e-css-parainiciantes
     * Nele devem conter a evolução do seu conhecimento no curso
     * Utilize o Git Flow para manter o seu repositório atualizado
          * ``` git status ```,  ``` git add ```, ``` git commit ```, ``` git pull ```, ``` git push origin main ```, ``` git branch ```
@@ -204,7 +221,6 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
      </tbody>
 </table>
 
----
 
 <table>
      <tbody>
@@ -227,61 +243,133 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
      </tbody>
 </table>
 
----
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="5"><img alt="Aprenda programação funcional" title="Aprenda programação funcional" src="https://m.media-amazon.com/images/I/71l0TYj1mpL._SL1500_.jpg" height="250"></td>
+               <td>Aprenda programação funcional: como pensar funcionalmente para trabalhar com códigos complexos</td>
+          </tr>
+          <tr>
+               <td>Autor: Jack Widman (Autor), Renan Amorim (Tradutor)</td>
+          </tr>
+          <tr>
+               <td>Preço: <b>R$36,60</b></td>
+           </tr>
+           <tr>
+                <td><a href="https://www.amazon.com.br/dp/B0DWBRSCVS" target="_blank">Link da Loja</a></td>
+           </tr>
+           <tr>
+                <td>Editora: Alta Books / O'reilly</td>
+           </tr>
+     </tbody>
+</table>
 
-<img alt="Aprenda programação funcional" title="Aprenda programação funcional" src="https://m.media-amazon.com/images/I/71l0TYj1mpL._SL1500_.jpg" height="250"><br>
-- [x] Aprenda programação funcional: como pensar funcionalmente para trabalhar com códigos complexos
-- [x] Autor: Jack Widman (Autor), Renan Amorim (Tradutor)
-- [x] Preço: **R$36,60**
-- [x] [Link da Loja](https://www.amazon.com.br/dp/B0DWBRSCVS)
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="5"><img alt="Design Centrado no Usuário" title="Design Centrado no Usuário" src="https://m.media-amazon.com/images/I/917gBEjXhbL._SL1500_.jpg" height="250"></td>
+               <td>Design Centrado no Usuário: Um guia para o desenvolvimento de aplicativos amigáveis</td>
+          </tr>
+          <tr>
+               <td>Autor: Travis Lowdermilk</td>
+          </tr>
+          <tr>
+               <td>Preço: <b>R$41,97</b></td>
+           </tr>
+           <tr>
+                <td><a href="https://www.amazon.com.br/dp/B0DWBRSCVS" target="_blank">Link da Loja</a></td>
+           </tr>
+           <tr>
+                <td>Editora: Alta Books / O'reilly</td>
+           </tr>
+     </tbody>
+</table>
 
----
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="5"><img alt="Código Limpo: Habilidades Práticas do Agile Software" title="Código Limpo: Habilidades Práticas do Agile Software" src="https://m.media-amazon.com/images/I/71JpZHEGvWL._UF1000,1000_QL80_.jpg" height="250"></td>
+               <td>Código Limpo: Habilidades Práticas do Agile Software</td></td>
+          </tr>
+          <tr>
+               <td>Autor: Robert C. Martin</td>
+          </tr>
+          <tr>
+               <td>Preço: <b>R$78,90</b></td>
+           </tr>
+           <tr>
+                <td><a href="https://www.amazon.com.br/dp/8576082675" target="_blank">Link da Loja</a></td>
+           </tr>
+           <tr>
+                <td>Editora: Alta Books / O'reilly</td>
+           </tr>
+     </tbody>
+</table>
 
-<img alt="Design Centrado no Usuário" title="Design Centrado no Usuário" src="https://m.media-amazon.com/images/I/917gBEjXhbL._SL1500_.jpg" height="250"><br>
-- [x] Design Centrado no Usuário: Um guia para o desenvolvimento de aplicativos amigáveis
-- [x] Autor: Travis Lowdermilk
-- [x] Preço: **R$41,97**
-- [x] [Link da Loja](https://www.amazon.com.br/dp/B07S8F2MC1)
 
----
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="5"><img alt="Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo" title="Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo" src="https://m.media-amazon.com/images/I/91y1jCIfhSL._SL1500_.jpg" height="250"></td>
+               <td>Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo</td></td>
+          </tr>
+          <tr>
+               <td>Autor: Jeff Sutherland</td>
+          </tr>
+          <tr>
+               <td>Preço: <b>R$75,00</b></td>
+           </tr>
+           <tr>
+                <td><a href="https://www.amazon.com.br/dp/8544104517" target="_blank">Link da Loja</a></td>
+           </tr>
+           <tr>
+                <td>Editora: Alta Books / O'reilly</td>
+           </tr>
+     </tbody>
+</table>
 
-<img alt="Código Limpo" title="Código Limpo" src="https://m.media-amazon.com/images/I/71JpZHEGvWL._UF1000,1000_QL80_.jpg" height="250"><br>
-- [x] Código Limpo: Habilidades Práticas do Agile Software
-- [x] Autor: Robert C. Martin
-- [x] Preço: **R$78,90**
-- [x] [Link da Loja](https://www.amazon.com.br/dp/8576082675)
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="5"><img alt="O Teste da Mãe" title="O Teste da Mãe" src="https://m.media-amazon.com/images/I/714IjyfAWlL._SL1500_.jpg" height="250"></td>
+               <td>O Teste da Mãe: Como conversar com clientes e descobrir se sua ideia é boa, mesmo com todos mentindo para você</td></td>
+          </tr>
+          <tr>
+               <td>Autor: Daniel Salengue (Tradutor), Rob Fitzpatrick (Autor)/td>
+          </tr>
+          <tr>
+               <td>Preço: <b>R$116,83</b></td>
+           </tr>
+           <tr>
+                <td><a href="https://www.amazon.com.br/dp/B07QM7ZS7Q" target="_blank">Link da Loja</a></td>
+           </tr>
+           <tr>
+                <td>Editora: Alta Books / O'reilly</td>
+           </tr>
+     </tbody>
+</table>
 
----
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="5"><img alt="ENVIESADOS" title="ENVIESADOS" src="https://m.media-amazon.com/images/I/61knSqVrQaL._SL1200_.jpg" height="250"></td>
+               <td>ENVIESADOS: Psicologia e Vieses Cognitivos no Design para criar produtos e serviços que ajudam usuários a tomarem MELHORES DECISÕES</td></td>
+          </tr>
+          <tr>
+               <td>Autor: Rian Dutra</td>
+          </tr>
+          <tr>
+               <td>Preço: <b>R$40,38</b></td>
+           </tr>
+           <tr>
+                <td><a href="https://www.amazon.com.br/dp/6500563859" target="_blank">Link da Loja</a></td>
+           </tr>
+           <tr>
+                <td>Editora: Alta Books / O'reilly</td>
+           </tr>
+     </tbody>
+</table>
 
-<img alt="CSS Avançado" title="CSS Avançado" src="https://m.media-amazon.com/images/I/812rjkeIBHL._SL1385_.jpg" height="250"><br>
-- [x] React Fluente: Crie aplicações web rápidas, eficazes e intuitivas
-- [x] Autor: Tejas Kumar
-- [x] Preço: **R$41,90**
-- [x] [Link da Loja](https://www.amazon.com.br/dp/8575222201)
-
----
-
-<img alt="Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo" title="Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo" src="https://m.media-amazon.com/images/I/91y1jCIfhSL._SL1500_.jpg" height="250"><br>
-- [x] Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
-- [x] Autor: Jeff Sutherland
-- [x] Preço: **R$75,00**
-- [x] [Link da Loja](https://www.amazon.com.br/dp/8544104517)
-
----
-
-<img alt="O Teste da Mãe" title="O Teste da Mãe" src="https://m.media-amazon.com/images/I/714IjyfAWlL._SL1500_.jpg" height="250"><br>
-- [x] O Teste da Mãe: Como conversar com clientes e descobrir se sua ideia é boa, mesmo com todos mentindo para você
-- [x] Autor: Daniel Salengue (Tradutor), Rob Fitzpatrick (Autor)
-- [x] Preço: **R$116,83**
-- [x] [Link da Loja](https://www.amazon.com.br/dp/B07QM7ZS7Q)
-
----
-
-<img alt="ENVIESADOS" title="ENVIESADOS" src="https://m.media-amazon.com/images/I/61knSqVrQaL._SL1200_.jpg" height="250"><br>
-- [x] ENVIESADOS: Psicologia e Vieses Cognitivos no Design para criar produtos e serviços que ajudam usuários a tomarem MELHORES DECISÕES
-- [x] Autor: Rian Dutra
-- [x] Preço: **R$40,38**
-- [x] [Link da Loja](https://www.amazon.com.br/dp/6500563859)
 
 ## Cursos Recomendados
 ### Cursos Pagos
@@ -297,18 +385,6 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 #### Aprenda a programar do zero com IA: Curso 100% Gratuito
 - [x] [Site da Rocketseat](https://www.rocketseat.com.br/discover)
 
-
-## Lista de Tecnologias Importantes
-<br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" title="Bootstrap" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="AWS" title="AWS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/aws.png" height="24">
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/git.png" height="24">
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt="jQuery" title="jQuery" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/jquery.png" height="24">
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/mysql.png" height="24">
-&nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SaSS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/sass.png" height="24">
-&nbsp;&nbsp;<img alt="Angular" title="Angular" src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi.png" height="26">
-&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
-&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">
-&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;<img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="26">&nbsp;&nbsp;<img alt="React" title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" height="26">&nbsp;&nbsp;<img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="26">
-<br><br>
 
 ## Próximos Passos da Mentoria
 - [ ] Correção de Linkedin
