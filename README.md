@@ -164,6 +164,35 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 - [ ] Senha: *Solicitar Senha*
 
 ## Canais do YouTube / Blogs / Links Importantes
+### Tutorial GitHub para Iniciantes | Como usar o GitHub 2026 Atualizado
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="3"><img alt="Tutorial GitHub para Iniciantes | Como usar o GitHub 2026 Atualizado" title="Tutorial GitHub para Iniciantes | Como usar o GitHub 2026 Atualizado" src="https://i.ytimg.com/vi/BUGZZaChiYw/maxresdefault.jpg" height="270"></td>
+               <td><b>Tutorial GitHub para Iniciantes | Como usar o GitHub 2026 Atualizado</b></td>
+          </tr>
+          <tr>
+               <td><a href="https://www.youtube.com/watch?v=BUGZZaChiYw" target="_blank">Vídeo do YouTube</a></td>
+          </tr>
+     </tbody>
+</table>
+
+
+### 30 Comandos do Terminal Linux BÁSICOS que você PRECISA SABER para ser um HACKER
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="3"><img alt="30 Comandos do Terminal Linux" title="30 Comandos do Terminal Linux" src="https://i.ytimg.com/vi/BKRi5K4Ouuo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDtDFBujY80NYGMUAGIEQljRVKNxw" height="50%"></td>
+               <td><b>30 Comandos do Terminal Linux BÁSICOS que você PRECISA SABER para ser um HACKER</b></td>
+          </tr>
+          <tr>
+               <td><a href="https://www.youtube.com/watch?v=QZ2nyxzZXPY" target="_blank">Vídeo do YouTube</a></td>
+          </tr>
+     </tbody>
+</table>
+
+
+
 ### Filipe Deschamps
 <table>
      <tbody>
