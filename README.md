@@ -162,14 +162,32 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 
 ## Canais do YouTube / Blogs / Links Importantes
 ### Filipe Deschamps
-* [Canal do Youtube](https://www.youtube.com/@attekitadev)
-* Assunto: Desenvolvimento Web e Tech
-* Meu último emprego antes de decidir focar 100% no YouTube foi ser CTO do Pagar.me. Lá tive o prazer de ser responsável por um time com mais de 100 pessoas e aprendi MUITO sobre gestão (principalmente gestão de times grandes) e sobre como lidar com tecnologia em escala. Ambos conhecimentos que quero compartilhar nesse canal.
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="3"><img alt="Desenvolvimento Web e Tech" title="Desenvolvimento Web e Tech" src="https://i.ytimg.com/vi/P5kfA6ncOs8/maxresdefault.jpg" height="270"></td>
+               <td><b>Desenvolvimento Web e Tech</b></td>
+          </tr>
+          <tr>
+               <td><a href="https://www.youtube.com/@FilipeDeschamps" target="_blank">Canal do YouTube</a></td>
+          </tr>
+     </tbody>
+</table>
+
 
 ### Attekita Dev
-* [Canal do Youtube](https://www.youtube.com/@FilipeDeschamps)
-* Assunto: Desenvolvimento Web
-* Software developer especialista em aplicativos e games, com mais de 15 anos de experiência e 5 prêmios de reconhecimento nacional. Foi eleita LinkedIn Top Voice 2023 pelo seu trabalho de criação de conteúdo para a comunidade de tecnologia. Em 2022 esteve na lista dos 50 hackers to follow e foi indicada para o prêmio internacional "Women that build".
+<table>
+     <tbody>
+          <tr>
+               <td rowspan="3"><img alt="Dicas de Desenvolvimento Web" title="Dicas de Desenvolvimento Web" src="https://i.ytimg.com/vi/7GYh2uW5z7U/maxresdefault.jpg" height="270"></td>
+               <td><b>Atualizações sobre a carreira de DEV</b></td>
+          </tr>
+          <tr>
+               <td><a href="https://www.youtube.com/@attekitadev" target="_blank">Canal do YouTube</a></td>
+          </tr>
+     </tbody>
+</table>
+
 
 ### Lucas Montano
 <table>
