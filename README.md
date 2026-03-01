@@ -27,7 +27,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 <table>
      <tbody>
           <tr>
-               <td rowspan="8" width="40%"><img alt="Naneto Almeida da Silva" title="Naneto Almeida da Silva" src="https://media.licdn.com/dms/image/v2/D4D35AQHqkriTGxHczg/profile-framedphoto-shrink_800_800/B4DZxiwDhkGkAg-/0/1771183290763?e=1772773200&v=beta&t=qeU-iuI0ZNf4AC6aPNv_RrvZnNgDroSohFvwkqiiBuY" height="100%"></td>
+               <td rowspan="9" width="40%"><img alt="Naneto Almeida da Silva" title="Naneto Almeida da Silva" src="https://media.licdn.com/dms/image/v2/D4D35AQHqkriTGxHczg/profile-framedphoto-shrink_800_800/B4DZxiwDhkGkAg-/0/1771183290763?e=1772773200&v=beta&t=qeU-iuI0ZNf4AC6aPNv_RrvZnNgDroSohFvwkqiiBuY" height="100%"></td>
                <td><b>Naneto Almeida da Silva</b></td>
           </tr>
           <tr>
@@ -59,7 +59,7 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 
 ---
 
-## Lista de Tecnologias Importantes
+## Tecnologias / Ferramentas / Frameworks
 <br><img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="26">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="Adobe" title="Adobe" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-icon.png" height="26">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Marvel" title="Marvel" src="https://bk.ibxk.com.br/2016/2/programas/14944322201055867.png?ims=60x60" height="26">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">
