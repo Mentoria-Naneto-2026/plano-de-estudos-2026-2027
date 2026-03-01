@@ -1,5 +1,5 @@
 # Plano de Estudos
-Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão ser consumidos pelo menos nos próximos 6 meses de estudo, com o objetivo de garantir uma qualificação minima para a área de Desenvolvimento **Frontend**
+Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão ser consumidos pelo menos nos próximos **6 meses** de estudo, com o objetivo de garantir uma qualificação minima para a área de Desenvolvimento **Frontend**
 
 ### Meus Contatos
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/sergiobsilva)
