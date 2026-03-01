@@ -51,6 +51,9 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
          <tr>
                 <td><b>Diagnótico:</b> Naneto relata ter concluído o curso de ADS recentemente, porém não conseguiu fixar maioria dos conhecimentos! Ele tem interesse em cerca de 1 ano estar        atuando profissionalmente na área de <b>Desenvolvimento Frontend</b></td>
          </tr>
+          <tr>
+               <td><a href="https://docs.google.com/document/d/1MVHr88oTtD13bDTHWrrXQyk_yI0qAzOvy_Du8KnClII/edit?usp=sharing" target="_blank">Documento de Orientação de Mentoria</a></td>
+          </tr>
      </tbody>
 </table>
 
