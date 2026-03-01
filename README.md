@@ -78,30 +78,30 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 
 ## Ferramentas
 ### IDE de Desenvolvimento
-- [ ] <img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="16">&nbsp;[Visual Studio Code](https://code.visualstudio.com/download)
+- [ ] <img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="16">&nbsp;[Visual Studio Code](https://code.visualstudio.com/download) | [Faça o Download]
 
 
 ### Prototipação & Design
-- [ ] <img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="16">&nbsp;[Figma](https://www.figma.com)
-- [ ] <img alt="Bootstrap 5" title="Bootstrap 5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/3840px-Bootstrap_logo.svg.png" height="16">&nbsp;[Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-- [ ] <img alt="Tailwind CSS" title="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="12">&nbsp;[Tailwind CSS](https://tailwindcss.com/)
-- [ ] <img alt="Typescale" title="Typescale" src="https://typescale.com/wp-content/themes/typescale/favicon/favicon-32x32.png?ver=1.2.49" height="16">&nbsp;[Typescale](https://typescale.com/)
-- [ ] <img alt="Color Pallete" title="Color Pallete" src="https://coolors.co/assets/img/favicon.png" height="16">&nbsp;[Color Pallete (Gerador de Paleta de Cores)](https://coolors.co/)
-- [ ] <img alt="Adobe Color" title="Adobe Color" src="https://color.adobe.com//apple-touch-icon.png" height="16">&nbsp;[Adobe Color](https://color.adobe.com/pt/create/color-wheel)
-- [ ] <img alt="Google Fonts" title="Google Fonts" src="https://cdn.iconscout.com/icon/free/png-256/free-google-fonts-icon-svg-download-png-2931439.png" height="16">&nbsp;[Google Fonts](https://fonts.google.com/)
+- [ ] <img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="16">&nbsp;[Figma](https://www.figma.com) | [Faça o Download]
+- [ ] <img alt="Bootstrap 5" title="Bootstrap 5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/3840px-Bootstrap_logo.svg.png" height="16">&nbsp;[Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/) | [Instale Localmente URL]
+- [ ] <img alt="Tailwind CSS" title="Tailwind CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="12">&nbsp;[Tailwind CSS](https://tailwindcss.com/) | [Instale Localmente URL]
+- [ ] <img alt="Typescale" title="Typescale" src="https://typescale.com/wp-content/themes/typescale/favicon/favicon-32x32.png?ver=1.2.49" height="16">&nbsp;[Typescale](https://typescale.com/) | [Use Online]
+- [ ] <img alt="Color Pallete" title="Color Pallete" src="https://coolors.co/assets/img/favicon.png" height="16">&nbsp;[Color Pallete (Gerador de Paleta de Cores)](https://coolors.co/) | [Use Online]
+- [ ] <img alt="Adobe Color" title="Adobe Color" src="https://color.adobe.com//apple-touch-icon.png" height="16">&nbsp;[Adobe Color](https://color.adobe.com/pt/create/color-wheel) | [Use Online]
+- [ ] <img alt="Google Fonts" title="Google Fonts" src="https://cdn.iconscout.com/icon/free/png-256/free-google-fonts-icon-svg-download-png-2931439.png" height="16">&nbsp;[Google Fonts](https://fonts.google.com/) | [Use Online] / [Instale Localmente URL]
 
 ### Virtualização de Ambientes
-- [ ] <img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="16">&nbsp;[Docker](https://www.docker.com/)
+- [ ] <img alt="Docker" title="Docker" src="https://skillicons.dev/icons?i=docker" height="16">&nbsp;[Docker](https://www.docker.com/) | [Faça o Download]
 
 ### Framework
-- [ ] <img alt="Material Design 3" title="Material Design 3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YbOpa-wsU2ll0wzwwzNuiOS4kFsIrOTumQ&s" height="16">&nbsp;[Material Design 3](https://m3.material.io/)
+- [ ] <img alt="Material Design 3" title="Material Design 3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YbOpa-wsU2ll0wzwwzNuiOS4kFsIrOTumQ&s" height="16">&nbsp;[Material Design 3](https://m3.material.io/) | [Use Online]
 
 ### Desenvolvimento
-- [ ] [Editor de Markdown](https://typora.io/)
-- [ ] <img alt="Postman" title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="16">&nbsp;[Postman](https://www.postman.com/)
+- [ ] [![Markdown](https://img.shields.io/badge/-000000?style=flat&logo=markdown&logoColor=white) Editor de Markdown](https://typora.io/) | [Faça o Download]
+- [ ] <img alt="Postman" title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="16">&nbsp;[Postman](https://www.postman.com/) | [Faça o Download]
 
 ### Gerenciamento de Projetos (Kanban Flow)
-- [ ] <img alt="Trello" title="Trello" src="https://cdn-icons-png.flaticon.com/512/174/174874.png" height="16">&nbsp;[Trello](https://trello.com/)
+- [ ] <img alt="Trello" title="Trello" src="https://cdn-icons-png.flaticon.com/512/174/174874.png" height="16">&nbsp;[Trello](https://trello.com/) | [Use Online] / [Instale App no Celular]
 
 ---
 
