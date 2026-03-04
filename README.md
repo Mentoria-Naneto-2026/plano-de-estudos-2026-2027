@@ -123,7 +123,6 @@ Ritmo           | Dedicação Diária |   Tempo para Concluir   | Estimativa em 
 **Equilibrado** |  **1,5h / dia**  |     **~172 dias**       | ~ 5 meses e meio 
 Focado          |    3h / dia      |       ~86 dias          | ~ 3 meses 
 Intenso         |    5h / dia      |       ~52 dias          | ~ 1 mês e 20 dias  
----
 
 
 ### <img alt="Origamid" title="Origamid" src="https://www.origamid.com/curso/assets/favicon.e89b009a.svg" height="16">&nbsp;[HTML e CSS para Iniciantes](https://www.origamid.com/curso/html-e-css-para-iniciantes/) [23 Horas]
@@ -133,14 +132,13 @@ Ritmo           |    Horas / Dia   |   Prazo de Conclusão   | Perfil
 **Equilibrado** |     **1,5h**     |     **~15 dias**       | **Ideal para quem trabalha ou estuda e quer consistência sem cansaço mental.** 
 Focado          |       3h         |       ~8 dias          | Ótimo para quem tem as tardes ou noites livres e quer terminar rápido. 
 Intenso         |       5h         |       ~5 dias          | Limite do saudável. Exige pausas frequentes (técnica Pomodoro).   
----
 
 ### <img alt="Origamid" title="Origamid" src="https://www.origamid.com/curso/assets/favicon.e89b009a.svg" height="16">&nbsp;[CSS Flexbox](https://www.origamid.com/curso/css-flexbox) [3 Horas]
 
 Ritmo           |    Horas / Dia   |   Prazo de Conclusão   | Perfil
 ---------       |       ------     | ------                 | ------
 **Equilibrado** |     **1,5h**     |      **~2 dias**       | **Ideal para quem trabalha ou estuda e quer consistência sem cansaço mental.** 
----
+
 
 ### <img alt="Origamid" title="Origamid" src="https://www.origamid.com/curso/assets/favicon.e89b009a.svg" height="16">&nbsp;[CSS Grid Layout](https://www.origamid.com/curso/css-grid-layout) [5 Horas]
 
@@ -156,7 +154,6 @@ Ritmo           | Dedicação Diária |   Tempo para Concluir   | Estimativa em 
 **Equilibrado** |  **1,5h / dia**  |     **~30 dias**        | 2 meses
 Focado          |    3h / dia      |       ~60 dias          | 1 mês
 Intenso         |    5h / dia      |       ~18 dias          | 0,6 mês (~18 dias)
----
 
 ## Jornada de conhecimento
 * A recomendação é que os passos descritos neste tópico sejam seguidos na ordem sugerida, para que a jornada de aprendizado seja o mais agradável o possível.
