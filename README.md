@@ -149,7 +149,14 @@ Ritmo           |    Horas / Dia   |   Prazo de Conclusão   | Perfil
 **Equilibrado** |     **1,5h**     |      **~4 dias**       | **Ideal para quem trabalha ou estuda e quer consistência sem cansaço mental.** 
 ---
 
-<img alt="CodeBoost" title="CodeBoost" src="https://codeboost.com.br/favicon.png" height="16">&nbsp;Carga total de horas dos cursos listados na Trilha CodeBoost: **350 aulas / X horas**
+<img alt="CodeBoost" title="CodeBoost" src="https://codeboost.com.br/favicon.png" height="16">&nbsp;Carga total de horas dos cursos listados na Trilha CodeBoost: **350 aulas / 90 horas**
+
+Ritmo           | Dedicação Diária |   Tempo para Concluir   | Estimativa em Meses
+---------       |      ------      |         ------          | ------
+**Equilibrado** |  **1,5h / dia**  |     **~30 dias**        | 2 meses
+Focado          |    3h / dia      |       ~60 dias          | 1 mês
+Intenso         |    5h / dia      |       ~18 dias          | 0,6 mês (~18 dias)
+---
 
 ## Jornada de conhecimento
 * A recomendação é que os passos descritos neste tópico sejam seguidos na ordem sugerida, para que a jornada de aprendizado seja o mais agradável o possível.
