@@ -116,7 +116,14 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 
 
 ## Sugestão de Estudos para cada curso da sua jornada
-* Carga total de horas dos cursos listados na **Trilha Origamid:** 
+* Carga total de horas dos cursos listados na Trilha Origamid: **258 horas**
+
+Ritmo           | Dedicação Diária |   Tempo para Concluir   | Estimativa em Meses
+---------       |      ------      |         ------          | ------
+**Equilibrado** |  **1,5h / dia**  |     **~172 dias**       | **~ 5 meses e meio** 
+Focado          |    3h / dia      |       ~86 dias          | ~ 3 meses 
+Intenso         |    5h / dia      |       ~52 dias          | ~ 1 mês e 20 dias  
+---
 
 
 ### <img alt="Origamid" title="Origamid" src="https://www.origamid.com/curso/assets/favicon.e89b009a.svg" height="16">&nbsp;[HTML e CSS para Iniciantes](https://www.origamid.com/curso/html-e-css-para-iniciantes/) [23 Horas]
