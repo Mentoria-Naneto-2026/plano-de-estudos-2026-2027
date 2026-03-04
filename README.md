@@ -114,6 +114,32 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
          * ``` git status ```,  ``` git add ```, ``` git commit ```, ``` git pull ```, ``` git push origin main ```, ``` git branch ```
          * Exercite criar uma branch para cada módulo para exercitar os seus conhecimentos em Git
 
+
+## Sugestão de Estudos para cada curso da sua jornada
+* Carga total de horas dos cursos listados na **Trilha Origamid:** 
+
+
+### <img alt="Origamid" title="Origamid" src="https://www.origamid.com/curso/assets/favicon.e89b009a.svg" height="16">&nbsp;[HTML e CSS para Iniciantes](https://www.origamid.com/curso/html-e-css-para-iniciantes/) [23 Horas]
+
+Ritmo           |    Horas / Dia   |   Prazo de Conclusão   | Perfil
+---------       |       ------     | ------                 | ------
+**Equilibrado** |     **1,5h**     |     **~15 dias**       | **Ideal para quem trabalha ou estuda e quer consistência sem cansaço mental.** 
+Focado          |       3h         |       ~8 dias          | Ótimo para quem tem as tardes ou noites livres e quer terminar rápido. 
+Intenso         |       5h         |       ~5 dias          | Limite do saudável. Exige pausas frequentes (técnica Pomodoro).   
+---
+
+### <img alt="Origamid" title="Origamid" src="https://www.origamid.com/curso/assets/favicon.e89b009a.svg" height="16">&nbsp;[CSS Flexbox](https://www.origamid.com/curso/css-flexbox) [3 Horas]
+
+Ritmo           |    Horas / Dia   |   Prazo de Conclusão   | Perfil
+---------       |       ------     | ------                 | ------
+**Equilibrado** |     **1,5h**     |      **~2 dias**       | **Ideal para quem trabalha ou estuda e quer consistência sem cansaço mental.** 
+---
+
+### <img alt="Origamid" title="Origamid" src="https://www.origamid.com/curso/assets/favicon.e89b009a.svg" height="16">&nbsp;[CSS Grid Layout](https://www.origamid.com/curso/css-grid-layout) [5 Horas]
+
+Ritmo           |    Horas / Dia   |   Prazo de Conclusão   | Perfil
+---------       |       ------     | ------                 | ------
+**Equilibrado** |     **1,5h**     |      **~4 dias**       | **Ideal para quem trabalha ou estuda e quer consistência sem cansaço mental.** 
 ---
 
 ## Jornada de conhecimento
