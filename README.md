@@ -116,11 +116,11 @@ Este plano de estudos tem por objetivo, orientar sobre quais conteúdos deverão
 
 
 ## Sugestão de Estudos para cada curso da sua jornada
-* Carga total de horas dos cursos listados na Trilha Origamid: **258 horas**
+<img alt="Origamid" title="Origamid" src="https://www.origamid.com/curso/assets/favicon.e89b009a.svg" height="16">&nbsp;Carga total de horas dos cursos listados na Trilha Origamid: **1.488 aulas / 258 horas**
 
 Ritmo           | Dedicação Diária |   Tempo para Concluir   | Estimativa em Meses
 ---------       |      ------      |         ------          | ------
-**Equilibrado** |  **1,5h / dia**  |     **~172 dias**       | **~ 5 meses e meio** 
+**Equilibrado** |  **1,5h / dia**  |     **~172 dias**       | ~ 5 meses e meio 
 Focado          |    3h / dia      |       ~86 dias          | ~ 3 meses 
 Intenso         |    5h / dia      |       ~52 dias          | ~ 1 mês e 20 dias  
 ---
@@ -148,6 +148,8 @@ Ritmo           |    Horas / Dia   |   Prazo de Conclusão   | Perfil
 ---------       |       ------     | ------                 | ------
 **Equilibrado** |     **1,5h**     |      **~4 dias**       | **Ideal para quem trabalha ou estuda e quer consistência sem cansaço mental.** 
 ---
+
+<img alt="CodeBoost" title="CodeBoost" src="https://codeboost.com.br/favicon.png" height="16">&nbsp;Carga total de horas dos cursos listados na Trilha CodeBoost: **350 aulas / X horas**
 
 ## Jornada de conhecimento
 * A recomendação é que os passos descritos neste tópico sejam seguidos na ordem sugerida, para que a jornada de aprendizado seja o mais agradável o possível.
